@@ -35,7 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/theonekaran/Flikster/blob/master/flikster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+##Notes
+- Implementing the UISearchbar was tough. Couldn't get the filter to work. You could check my code - bottom of MoviesViewController
 
 ## License
 
